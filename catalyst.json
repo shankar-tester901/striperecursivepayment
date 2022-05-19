@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "test_stripe_recursive_payment_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

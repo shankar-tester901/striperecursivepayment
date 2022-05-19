@@ -1,0 +1,12 @@
+{
+	"name": "test_stripe_recursive_payment_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "shankarr+1001@zohocorp.com",
+	"dependencies": {
+		"dotenv": "^10.0.0",
+		"express": "^4.17.1",
+		"stripe": "^8.183.0",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
